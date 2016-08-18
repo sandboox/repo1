@@ -3,6 +3,8 @@ CKEditor 4 Changelog
 
 ## CKEditor 4.5.11
 
+Added config option.
+
 ## CKEditor 4.5.10
 
 Fixed Issues:
