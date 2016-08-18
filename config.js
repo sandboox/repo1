@@ -8,6 +8,7 @@ CKEDITOR.editorConfig = function( config ) {
 	// config.language = 'fr';
 	// config.uiColor = '#AADC6E';
 	// %REMOVE_START%
+	config.develop = 1;
 	config.plugins =
 		'about,' +
 		'a11yhelp,' +
