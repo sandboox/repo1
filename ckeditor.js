@@ -3,6 +3,7 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
+// Dumb change
 // Compressed version of core/ckeditor_base.js. See original for instructions.
 /* jshint ignore:start */
 /* jscs:disable */
