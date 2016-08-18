@@ -5,6 +5,7 @@ CKEditor 4 Changelog
 
 Added dumb idea.
 Added config option.
+Added topic change.
 
 ## CKEditor 4.5.10
 
