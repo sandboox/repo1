@@ -11,6 +11,7 @@ dioopa
 Another change in master
 Fixed ticket 1.
 Fixed ticket 3.
+Master 19:14
 Anither change for ticket 1.
 
 ## CKEditor 4.5.10
