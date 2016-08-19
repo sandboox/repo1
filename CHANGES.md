@@ -12,6 +12,7 @@ Another change in master
 Fixed ticket 1.
 Fixed ticket 3.
 Anither change for ticket 1.
+ticket 4
 
 ## CKEditor 4.5.10
 
