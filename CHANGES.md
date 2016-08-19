@@ -6,6 +6,7 @@ CKEditor 4 Changelog
 Added config option.
 Added dumb idea.
 Added topic change.
+Added change to master.
 
 ## CKEditor 4.5.10
 
