@@ -7,6 +7,7 @@ Added config option.
 Added dumb idea.
 Added topic change.
 Added change to master.
+dioopa
 
 ## CKEditor 4.5.10
 
