@@ -9,6 +9,7 @@ Added topic change.
 Added change to master.
 dioopa
 Another change in master
+Fixed ticket 1.
 
 ## CKEditor 4.5.10
 
