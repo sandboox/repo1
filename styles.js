@@ -12,7 +12,7 @@
 // If you don't have plugins that depend on this file, you can simply ignore it.
 // Otherwise it is strongly recommended to customize this file to match your
 // website requirements and design properly.
-Dodana zmiana w stylach
+Dodana zmiana w stylach #2
 changes in master
 testing other changes
 CKEDITOR.stylesSet.add( 'default', [
